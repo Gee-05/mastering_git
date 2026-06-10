@@ -1,4 +1,4 @@
 ## Heyoo everyone, welcome to my Git Guide!
 
-- Yo, Johnny here!
+- Yo, John here!
 - I'm adding this from `feature-branch`
