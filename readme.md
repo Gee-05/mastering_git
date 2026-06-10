@@ -1,2 +1,4 @@
-## Hello, Git!
--I'm adding this from `feature-branch`
+## Welcome to Git!
+
+- This is coming from `dev-gerald`
+- I'm adding this from `feature-branch`
